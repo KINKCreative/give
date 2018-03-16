@@ -1,9 +1,9 @@
 {
-  title: "KINK Creative",
-  entries: [
+  "title": "KINK Creative",
+  "entries": [
     {
-      weight: 1,
-      to: "GDFMJRACYAZRI7P3O7HUPSDPRUVGXCP4KA4HFH347IPZJBJVDDVKDB6Q"
+      "score": 1,
+      "id": "GDFMJRACYAZRI7P3O7HUPSDPRUVGXCP4KA4HFH347IPZJBJVDDVKDB6Q"
     }
   ]
 }
